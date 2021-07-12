@@ -8,4 +8,4 @@ What git command changes to another branch?
 What git command deletes a branch?
   git branch -D NAME_OF_BRANCH
 How do merge conflicts happen?
-  They occur when Git cannot determine what to do regarding a file or folder, typically because it has been altered in differing ways on each branch. 
+  They occur when Git cannot determine what to do regarding a file or folder, typically because it has been altered in differing ways on each branch.
